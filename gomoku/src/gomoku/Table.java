@@ -12,7 +12,7 @@ public class Table {
 
 	private int width, height;
 	private int store[][];
-
+	// aaa`
 	Table(int width, int height) {
 
 		this.width = width;
